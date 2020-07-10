@@ -187,6 +187,51 @@
             </div>
         </section>
     </div>
+    <!--<div style="text-align:center;">
+        <table align="center" style="margin: 0px auto;">
+            <tr>
+                <td>
+                    <iframe style="width:120px;height:240px;"
+                            marginwidth="0" marginheight="0" scrolling="no"
+                            frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B07WLKP2KB&linkId=ad3f4b93af333863a57c9c63baccc1f6&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS2=1&asins=B07YLZTK1S&linkId=ae85a5fb86fbadc62f796321206dc258&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B07YCSNYRC&linkId=0c8ccb2590966c1362a50124272e4db1&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B0777KYQS7&linkId=5c237edb01d31b0de85616747c3bb4f7&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B07RN8DSN7&linkId=9827c7d7cf9e2abf971b53e81b1a22cd&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B071VK5KXN&linkId=6741d033681dc0938bd2e19df8a7ab82&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B07CG6VV5S&linkId=82ce5a453ca6bd01ab8871458f6c3b95&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+                <td>
+                    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?ref=tf_til&t=gilsonjunio0c-20&m=amazon&o=15&p=8&l=as1&IS1=1&asins=B014I8TOTC&linkId=2ee8f6565a0307a4b36c7d74a17f88e3&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+                    </iframe>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="5">
+                    <script data-ad-client="ca-pub-8662127685262666" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                </td>
+            </tr>
+        </table>
+    </div>-->
 </div>
 
 <footer style="opacity: 1; top: 0px;" id="footer" role="contentinfo">
@@ -207,9 +252,9 @@
         </div>
     </div>
 
-    <div class="gradient-white">
+    <!--<div class="gradient-white">
         <a class="top" href="#top">back to top</a>
-    </div>
+    </div>-->
 </footer>
 
 

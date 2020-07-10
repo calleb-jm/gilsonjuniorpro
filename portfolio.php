@@ -109,11 +109,100 @@
                 <ul id="thumbs" class="thumbs clearfix">
 
                     <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.balzacs">
+                            <img src="resources/images/app_balzacs.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_balzacs.png 628w, resources/images/app_balzacs.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Balzac's Coffee Roasters</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.basilbox">
+                            <img src="resources/images/app_basilbox.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_basilbox.png 628w, resources/images/app_basilbox.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Basil Box</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.gfc">
+                            <img src="resources/images/app_gfc.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_gfc.png 628w, resources/images/app_gfc.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Grounds for Coffee</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.maker">
+                            <img src="resources/images/app_makers.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_makers.png 628w, resources/images/app_makers.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Maker Pizza</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.Oliva">
+                            <img src="resources/images/app_oliva.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_oliva.png 628w, resources/images/app_oliva.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Oliva</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.smokes">
+                            <img src="resources/images/app_smokes.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_smokes.png 628w, resources/images/app_smokes.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Smoke's Poutinerie</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.smoothpay.ToppersPizza">
+                            <img src="resources/images/app_toppers.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_toppers.png 628w, resources/images/app_toppers.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Topper's Pizza</h4>
+                                <p>Android Developer at Smooth Commerce</p>
+                                <p>Java and Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
+                        <a href="https://play.google.com/store/apps/details?id=com.deschampsbugsescape.ca">
+                            <img src="resources/images/app_deschamps.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_deschamps.png 628w, resources/images/app_deschamps.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
+                                <span class="arrow-r"></span>
+                                <h4>Deschamps Bugs Escape</h4>
+                                <p>Architect and Android Developer</p>
+                                <p>Kotlin</p>
+                            </div>
+                        </a>
+                    </li>
+
+                    <li style="opacity: 1;">
                         <a href="https://play.google.com/store/apps/details?id=com.maisbrinquedos.ca">
                             <img src="resources/images/app_maisbrinquedos.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_maisbrinquedos.png 628w, resources/images/app_maisbrinquedos.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Mais Brinquedos</h4>
-                                <p>Android Developer & API Developer</p>
+                                <p>Architect, Android Developer & API Developer</p>
+                                <p>Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -123,7 +212,8 @@
                             <img src="resources/images/app_carrot.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_carrot.png 628w, resources/images/app_carrot.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Carrot Rewards</h4>
-                                <p>Android Developer</p>
+                                <p>Android Developer at Carrot Insights</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -133,7 +223,8 @@
                             <img src="resources/images/app_raptors.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_raptors.png 628w, resources/images/app_raptors.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Raptors Watermark</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -144,6 +235,7 @@
                                 <span class="arrow-r"></span>
                                 <h4>APP 190 - Emergência Paraná</h4>
                                 <p>Ionic Developer / Android Developer</p>
+                                <p>Java, Kotlin, JavaScript and TypeScript</p>
                             </div>
                         </a>
                     </li>
@@ -153,7 +245,8 @@
                             <img src="resources/images/app_investigacao.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-qantas-homepage" srcset="resources/images/app_investigacao.png 628w, resources/images/app_investigacao.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Investigação</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -163,7 +256,8 @@
                             <img src="resources/images/app_salmos.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-growth-giant-brand" srcset="resources/images/app_salmos.png 628w, resources/images/app_salmos.png 300w" sizes="(max-width: 628px) 100vw, 628px">								            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Salmos</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -173,7 +267,8 @@
                             <img src="resources/images/app_make.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_make.png 628w, resources/images/app_make.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Make</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
@@ -183,7 +278,8 @@
                             <img src="resources/images/app_todo.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_todo.png 628w, resources/images/app_todo.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>To Do ASAP</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -193,7 +289,8 @@
                             <img src="resources/images/app_got.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_got.png 628w, resources/images/app_got.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>GoT Trivia</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -203,7 +300,8 @@
                             <img src="resources/images/app_random.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_random.png 628w, resources/images/app_random.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Random</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
@@ -213,7 +311,8 @@
                             <img src="resources/images/app_mccafe.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_mccafe.png 628w, resources/images/app_mccafe.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>McCafe</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -223,7 +322,8 @@
                             <img src="resources/images/app_baloes.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-subscriber-notifications" srcset="resources/images/app_baloes.png 628w, resources/images/app_baloes.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Burst Ballons</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java and Kotlin</p>
                             </div>
                         </a>
                     </li>
@@ -233,7 +333,8 @@
                             <img src="resources/images/app_kardec.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-quest-research" srcset="resources/images/app_kardec.png 628w, resources/images/app_kardec.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Allan Kardec</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
@@ -243,7 +344,8 @@
                             <img src="resources/images/app_simples.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-segments" srcset="resources/images/app_simples.png 628w, resources/images/app_simples.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Simples</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
@@ -253,7 +355,8 @@
                             <img src="resources/images/app_runaway.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-growth-giant-brand" srcset="resources/images/app_runaway.png 628w, resources/images/app_runaway.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>Run Away Sperm </h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
@@ -263,12 +366,11 @@
                             <img src="resources/images/app_purescore.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="feature-rethinking-flight-search" srcset="resources/images/app_purescore.png 628w, resources/images/app_purescore.png 300w" sizes="(max-width: 628px) 100vw, 628px">						            <div class="description">
                                 <span class="arrow-r"></span>
                                 <h4>PureScore</h4>
-                                <p>Android Developer</p>
+                                <p>Architect and Android Developer</p>
+                                <p>Java</p>
                             </div>
                         </a>
                     </li>
-
-
                 </ul>
             </div>
         </div>
