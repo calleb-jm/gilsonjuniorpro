@@ -13,11 +13,18 @@
 
 My name is Gilson Junior, I am an Android Developer completely passionate about Technology, App Development, Innovation and create things with LEGO.
 
-- :office_worker: Android Developer at **onDev.ca**
+- :office_worker: I’m currently working as Android Developer at **onDev.ca**
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on Android Communities.
+- 💬 Ask me about Lego, Android or any Cinema related stuff.
 - :blue_heart: Techs: Android Native, MVVM, Architecture Components and Building Blocks!
 - :books: Clean Architecture: Robert C. Martin
+- 📫 How to reach me: [Gilson Junior website](http://www.projectconnect.com.br/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like to build things with lego.
 
-> :octocat: [Gilson Junior website](http://www.projectconnect.com.br/)
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=gilsonjuniorpro&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
