@@ -38,12 +38,4 @@ My name is Gilson Junior, I am an Android Developer completely passionate about 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gilsonjuniorpro&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<a href="https://github.com/gilsonjuniorpro/Jarvis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilsonjuniorpro&repo=Jarvis&theme=dark" />
-
-</a>
-<a href="https://github.com/gilsonjuniorpro/NetflixRemake">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gilsonjuniorpro&repo=NetflixRemake&theme=dark" />
-</a>
-
 ---
