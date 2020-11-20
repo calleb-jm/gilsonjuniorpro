@@ -105,6 +105,10 @@
 <div style="opacity: 1; top: 0px;" id="content-detail" class="content portfolio-main clearfix">
     <section class="noise">
         <div class="row">
+            <center>
+                <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=15&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=d82a01445fffdb1cf8969f24ef9d337b&t=gilsonjuni0dd-20&tracking_id=gilsonjuni0dd-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+            </center>
+            <br />
             <div class="col-12">
                 <ul id="thumbs" class="thumbs clearfix">
                     <li style="opacity: 1;">
